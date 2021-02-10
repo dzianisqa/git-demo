@@ -1,2 +1,4 @@
 Who knows 
 Are you ready?
+git fetch
+git merge
