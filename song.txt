@@ -1,7 +1,1 @@
-Who knows 
-Are you ready?
-git fetch
-git merge
-
-Form the lines
-Shield in shield
+What cam I do
