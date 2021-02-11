@@ -5,3 +5,5 @@ Commit
 New branch
 
 One more branch
+
+New feature branch
